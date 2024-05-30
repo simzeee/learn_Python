@@ -6,3 +6,4 @@ metadata.json
 __pycache__
 .pytest_cache
 .exercism
+*_test.py
