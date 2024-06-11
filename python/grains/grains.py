@@ -22,3 +22,6 @@ def square_better(number):
 
 def total_better():
     return 2**64 - 1
+
+
+# https://exercism.org/tracks/python/exercises/grains/dig_deeper
