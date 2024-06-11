@@ -52,7 +52,7 @@ def isosceles(sides):
 def scalene(sides):
     return len(set(sides)) == 3
 
-# Solution 3
+# Solution 3 tuple unpacking
 
 def equilateral(sides):
     a, b, c = sorted(sides)
